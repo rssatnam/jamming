@@ -1,6 +1,5 @@
 const clientID = "cf758774d4f245c99a41b69725f98df5";
 const redirectURI = "http://vigorous-temper.surge.sh/";
-// const redirectURI = "http://localhost:3000/";
 let accessToken;
 
 const Spotify = {
