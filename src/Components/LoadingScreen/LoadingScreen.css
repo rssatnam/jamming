@@ -1,0 +1,18 @@
+.loading-screen {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loadingImage {
+  background: url("./loading.gif") no-repeat center center;
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+}
